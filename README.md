@@ -4,4 +4,4 @@
 
 ### Please send your pull request and start
 
-## Please, if something is missing from the template, please let it know as a 
+## Please, if something is missing from the template, please let it know as a Issue
